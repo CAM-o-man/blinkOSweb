@@ -43,4 +43,4 @@ devices are not supported.
 
 ## Installation
 
-If you know how to flash a new operating system onto your phone, please [another page](another-page.md)
+If you know how to flash a new operating system onto your phone, please download the ZIP file at the top of the page.
