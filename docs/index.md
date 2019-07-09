@@ -1,6 +1,11 @@
-# blinkOS
+---
+layout: default
+title: blinkOS
+description: blinkOS is a free, open-source operating system designed for privacy.
+---
+# About blinkOS
 
-blinkOS is a free, open-source operating system designed for privacy.
+blinkOS is a free, open-source operating system designed for privacy. 
 
 ## Why blinkOS?
 
