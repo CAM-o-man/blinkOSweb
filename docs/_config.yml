@@ -1,5 +1,5 @@
 title: blinkOS Landing
 description: blinkOS is a privacy-based operating system built on the Android Open Source Project
 show_downloads: true
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-cayman
