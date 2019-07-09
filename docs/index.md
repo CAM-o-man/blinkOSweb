@@ -22,75 +22,25 @@ data-mining is used only to gain data on you to sell, or to advertise.
 2.  If you choose to stop it, it will attempt to force the app to cease data requests.
 3.  If the app refuses to cease requests, it will feed the app garbage data to keep your real data private.
 
-###### Header 6
+## How do I know you're keeping my data private?
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Most companies offer software that is "closed-source", which means you can't view the software
+and you can't know if they do what they say they do. Apple, for example, claims to protect
+user privacy, but *you can't know that they keep their promise* because you can't view the code.
 
-### There's a horizontal rule below this.
+#### blinkOS is open-source.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+If you don't believe that we are doing what we say we are, you can look at our code yourself
+[here](GERRIT IP COMING SOON).
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Supported Devices
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+[View our supported devices](https://wiki.lineageos.org/devices/). Greyed-out
+devices are not supported.
+
+## Installation
+
+If you know how to flash a new operating system onto your phone, please [another page](another-page.md)
