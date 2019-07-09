@@ -1,41 +1,26 @@
 # blinkOS
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+blinkOS is a free, open-source operating system designed for privacy.
 
-## Header 2
+## Why blinkOS?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Here in your mind you have complete privacy. Here there's no difference between what is and what could be.
 
-### Header 3
+Companies today use your phone to mine your data. Sometimes, this is a good thing. Data can
+be used to improve the product or your experience of the product. Sometimes, however, this
+data-mining is used only to gain data on you to sell, or to advertise.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### blinkOS prevents data mining.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   blinkOS will send chaff and garbage data to fool data-miners, without compromising you or your privacy.
+*   blinkOS can prevent an app from requesting data from the phone or other apps on the phone.
+*   blinkOS can ensure your data remains secure from even the most determined of data-miners.
 
-#### Header 4
+##### When blinkOS detects data mining, it will:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Inform you of the mining and allow you to choose whether or not it should continue.
+2.  If you choose to stop it, it will attempt to force the app to cease data requests.
+3.  If the app refuses to cease requests, it will feed the app garbage data to keep your real data private.
 
 ###### Header 6
 
