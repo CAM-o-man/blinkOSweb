@@ -9,7 +9,8 @@ blinkOS is a free, open-source operating system designed for privacy.
 
 ## Why blinkOS?
 
-> Here in your mind you have complete privacy. Here there's no difference between what is and what could be.
+> Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.  
+> -Edward Snowden
 
 Companies today use your phone to mine your data. Sometimes, this is a good thing. Data can
 be used to improve the product or your experience of the product. Sometimes, however, this
