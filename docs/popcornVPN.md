@@ -37,3 +37,13 @@ a .zip file, or (for Linux or Mac users) a tarballed archive.
 
 If you know how to code, feel free to clone our Git repository at the top of the page. If you'd like to fork it and
 make a product of your own, too, that's fine as well, however please read our license, also at the top of the page.
+
+## Get popcornVPN
+
+popcornVPN is now available on the Google Play Store. Unfortunately, the iOS version is still in
+development, but we'll tell you here as soon as it is available. 
+
+### For those without the Google Play Store:
+
+If you're running an alternative operating system like LineageOS or blinkOS, without access to the Google
+Play store, you can download and install the app manually with the APK at the top of the page.
