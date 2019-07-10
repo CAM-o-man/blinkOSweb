@@ -16,4 +16,4 @@ hackSugar is a not-for-profit tech group consisting of the cool people you see b
 - Tejas Mehta  
   - Tejas is the app development expert and has experience with publishing apps. He's also the resident Mac user, which we sure tease him for.
 - Connor McDermid  
-  - Connor is our backend manager, making databases work and trudging through web development. As the only Canadian on the team, he is also our consultant on poutine quality.
+  - Connor is our backend manager and web developer, making databases work and trudging through a mess of webdev languages. As the only Canadian on the team, he is also our consultant on poutine quality.
