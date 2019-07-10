@@ -52,3 +52,7 @@ devices are not supported.
 If you know how to flash a new operating system onto your phone, please download the ZIP file at the top of the page.
 If you do not, you can follow a guide [here](https://lifehacker.com/how-to-flash-a-rom-to-your-android-phone-30885281).
 If you are not confident in your capabilities, [let us install it for you.](flashingBlink.md)
+
+### [About Us](hackSugar.md)
+
+[View our other projects](products.md)
