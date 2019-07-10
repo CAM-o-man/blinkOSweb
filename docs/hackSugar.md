@@ -8,12 +8,12 @@ We are an organisation known as hackSugar, a group of several programmers and so
 committed to open-source and to making lives better through open-source software.
 
 ## Our Organisation
-Frank, please tell people about hackSugar.
+hackSugar is a not-for-profit tech group consisting of the cool people you see below. We believe in software that respects your privacy, software that has a purpose, and software to share with everyone.
 
 ## Our Members
 - Frank Gomes
-  - sublist
+  - Frank maintains our hardware and helps with managing Linux systems. He's also our resident dog aficionado, and would love to meet yours!
 - Tejas Mehta  
-  - sublist
+  - Tejas is the app development expert and has experience with publishing apps. He's also the resident Mac user, which we sure tease him for.
 - Connor McDermid  
-  - sublist
+  - Connor is our backend manager, making databases work and trudging through web development. As the only Canadian on the team, he is also our consultant on poutine quality.
