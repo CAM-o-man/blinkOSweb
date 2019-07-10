@@ -1,0 +1,6 @@
+language: ruby
+cache: bundler
+rvm: 2.6
+
+install: sudo bash docs/script/bootstrap
+script: sudo bash docs/script/cibuild
