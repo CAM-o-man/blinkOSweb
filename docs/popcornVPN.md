@@ -4,7 +4,7 @@ title: popcornVPN
 description: A VPN equipped with our VPN-hopping technology
 ---
 
-#popcornVPN
+# popcornVPN
 
 popcornVPN is a fork of OpenVPN modified to include VPN-hopping, which drastically increases your privacy and security.
 
