@@ -54,7 +54,7 @@ $ repo init -u ssh://your_gerrit_username@147.253.39.57:29418/blinkOS/android -b
 ```
 The repo is now initialised. Run
 ```
-user@computer:~/blink$ repo sync -j JOBS
+$ repo sync -j JOBS
 ```
 JOBS represents the number of simultaneous jobs to run. This will vary depending on your system.
 
