@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landing
 title: blinkOS
 description: blinkOS is a free, open-source operating system designed for privacy.
 ---
