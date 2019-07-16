@@ -12,7 +12,7 @@ Like all AOSP projects, we recommend Ubuntu as a build environment.
 
 Although we assume you know how to do this, if you're new to Ubuntu, simply open up a terminal and type
 ```
-$ sudo apt-get install git.
+$ sudo apt-get install git
 ```
 
 You will be prompted for your password, and Git will then be installed.
@@ -22,12 +22,12 @@ You will be prompted for your password, and Git will then be installed.
 Repo, unfortunately, is not on apt, much to our dismay. Instead, please ensure that you have a personal
 bin directory in `~/bin`. If you do not, simply run 
 ```
-$ mkdir ~/bin.
+$ mkdir ~/bin
 ```
 
 It must also be included in your PATH. Please run 
 ```
-$ PATH=~/bin:$PATH.
+$ PATH=~/bin:$PATH
 ```
 Download the repo tool with curl and make it executable:
 ```
