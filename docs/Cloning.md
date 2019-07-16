@@ -64,3 +64,57 @@ JOBS represents the number of simultaneous jobs to run. This will vary depending
 150 GiB of space.
 
 If you have problems with Repo, [troubleshoot here](https://source.android.com/setup/build/downloading).
+
+
+# Building blinkOS
+
+
+There are several tools you will need to build blinkOS:
+- platform-tools
+  - [download link](https://developer.android.com/studio/releases/platform-tools)
+- sdk-tools
+  - [download link](https://developer.android.com/studio). Scroll down to see command line tools only.
+- ndk-tools
+  - [download link](https://developer.android.com/ndk/downloads)
+  
+Download these to your personal binaries file `~/bin` and add them to your PATH:
+```
+$ cd ~
+$ nano .profile
+```
+At the bottom of `.profile`, add the following lines:
+```
+# Added platform-tools to PATH
+PATH="$HOME/bin/platform-tools:$PATH"
+# Added sdk-tools to PATH
+PATH="$HOME/bin/sdk-tools:$PATH"
+# Added ndk-tools to PATH
+PATH="$HOME/bin/ndk-tools:$PATH"
+```
+Navigate to the root of your blinkOS source with `cd` and run
+```
+$ source build/envsetup.sh
+```
+
+If you are running Ubuntu 16.04 (xenial) or later, run:
+```
+$ sudo apt-get install bc bison build-essential ccache curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick lib32ncurses5-dev lib32readline-dev lib32z1-dev liblz4-tool libncurses5-dev libsdl1.2-dev libssl-dev libwxgtk3.0-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc zip zlib1g-dev
+```
+Otherwise, run
+```
+$ sudo apt-get install bc bison build-essential ccache curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick lib32ncurses5-dev lib32readline-dev lib32z1-dev liblz4-tool libncurses5-dev libsdl1.2-dev libssl-dev libwxgtk2.8-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc zip zlib1g-dev
+```
+Ensure you are in the root of the source code, and then
+```
+$ breakfast sailfish
+$ croot
+$ brunch sailfish
+```
+
+Assuming the build completed successfully, which will be obvious when it completes, acquire the completed build:
+```
+$ cd $OUT
+```
+The completed build is `signed-ota-update.zip`
+
+
