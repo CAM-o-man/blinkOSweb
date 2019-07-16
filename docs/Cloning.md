@@ -25,7 +25,10 @@ bin directory in `~/bin`. If you do not, simply run
 $ mkdir ~/bin.
 ```
 
-It must also be included in your PATH. Please run $ PATH=~/bin:$PATH.
+It must also be included in your PATH. Please run 
+```
+$ PATH=~/bin:$PATH.
+```
 Download the repo tool with curl and make it executable:
 ```
 $ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
@@ -56,6 +59,8 @@ The repo is now initialised. Run
 ```
 $ repo sync -j JOBS
 ```
-JOBS represents the number of simultaneous jobs to run. This will vary depending on your system.
+JOBS represents the number of simultaneous jobs to run. This will vary depending on your system.  
+`repo sync` will take quite some time, and requires at least 
+150 GiB of space.
 
 If you have problems with Repo, [troubleshoot here](https://source.android.com/setup/build/downloading).
