@@ -20,7 +20,7 @@ You will be prompted for your password, and Git will then be installed.
 #### Installing Repo
 
 Repo, unfortunately, is not on apt, much to our dismay. Instead, please ensure that you have a personal
-bin directory in ~/bin. If you do not, simply run 
+bin directory in `~/bin`. If you do not, simply run 
 ```
 $ mkdir ~/bin.
 ```
