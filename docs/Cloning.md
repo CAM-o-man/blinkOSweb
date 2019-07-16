@@ -1,5 +1,5 @@
 ---
-layout: default.html  
+layout: default
 title: Clone and Contribute  
 description: How can we help you help us help us all?
 ---
