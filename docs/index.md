@@ -37,7 +37,7 @@ user privacy, but *you can't know that they keep their promise* because you can'
 #### blinkOS is open-source.
 
 If you don't believe that we are doing what we say we are, you can look at our code yourself
-[here](GERRIT IP COMING SOON).
+[here](http://147.253.39.57:8080).
 
 
 
