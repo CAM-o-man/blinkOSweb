@@ -19,3 +19,7 @@ Tejas Mehta
 
 Connor McDermid  
  > Connor is the team's fullstack developer and database manager, making sure databases and servers work while maintaining the trash pile that is this website. As the only Canadian on the team, he is also our consultant on poutine quality.
+ 
+ # Contact Us
+ 
+ We'd love to hear what you think! [Contact us via email](mailto:cam-o-man@live.com) or [on our site](contactUs.html).
