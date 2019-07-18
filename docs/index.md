@@ -55,4 +55,4 @@ If you are not confident in your capabilities, [let us install it for you.](flas
 
 ### [About Us](hackSugar.md)
 
-[View our other projects](products.md)
+[View our other projects](products.md).
