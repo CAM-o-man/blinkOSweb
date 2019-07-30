@@ -43,9 +43,10 @@ If you don't believe that we are doing what we say we are, you can look at our c
 
 ## Supported Devices
 
-
-[View our supported devices](https://wiki.lineageos.org/devices/). Greyed-out
-devices are not supported.
+At present, the only device we support is the Google Pixel. However, as the project progresses, we expect to roll
+out support for [all of the devices on this list](https://wiki.lineageos.org/devices/). If you'd like us to move
+a device to the top of the priority list, please [send me a message](mailto:cam-o-man@Live.com), or if you'd like
+us to support more devices faster, you can [make a donation](donations.md).
 
 ## Installation
 
