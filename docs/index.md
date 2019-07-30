@@ -10,7 +10,7 @@ blinkOS is a free, open-source operating system designed for privacy.
 ## Why blinkOS?
 
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.  
-> -Edward Snowden
+> -Edward Snowd``en
 
 Companies today use your phone to mine your data. Sometimes, this is a good thing. Data can
 be used to improve the product or your experience of the product. Sometimes, however, this
@@ -37,7 +37,7 @@ user privacy, but *you can't know that they keep their promise* because you can'
 #### blinkOS is open-source.
 
 If you don't believe that we are doing what we say we are, you can look at our code yourself
-[here](http://147.253.39.57:8080), or [clone it here](Cloning.md)
+[here](http://147.253.39.57:8080), or [clone it here](Cloning.md).
 
 
 
@@ -57,3 +57,26 @@ If you are not confident in your capabilities, [let us install it for you.](flas
 ### [About Us](hackSugar.md)
 
 [View our other projects](products.md).
+
+<div id="cookieConsent" style="background-color: rgba(20,20,20,0.8);
+                                   min-height: 26px;
+                                   font-size: 14px;
+                                   color: #ccc;
+                                   line-height: 26px;
+                                   padding: 8px 0 8px 30px;
+                                   font-family: "Trebuchet MS",Helvetica,sans-serif;
+                                   position: fixed;
+                                   bottom: 0;
+                                   left: 0;
+                                   right: 0;
+                                   display: none;
+                                   z-index: 9999;">
+    <div id="closeCookieConsent" style="float: right;
+                                            display: inline-block;
+                                            cursor: pointer;
+                                            height: 20px;
+                                            width: 20px;
+                                            margin: -15px 0 0 0;
+                                            font-weight: bold;">x</div>
+    This website may be insecure. We urge your to use our Onion site at: 
+</div>

@@ -7,7 +7,7 @@ description: How can we help you help us help us all?
 
 Android Open Source projects, and subsequently, blinkOS, use Gerrit as a code review/version control tool.
 [Our gerrit server can be found here](https://147.253.39.57:8080).
-Like all AOSP projects, we recommend Ubuntu as a build environment.
+Like all AOSP projects, we recommend Ubuntu Linux as a build environment.
 #### Installing Git
 
 Although we assume you know how to do this, if you're new to Ubuntu, simply open up a terminal and type
@@ -29,7 +29,7 @@ It must also be included in your PATH. Please run
 ```
 $ PATH=~/bin:$PATH
 ```
-Download the repo tool with curl and make it executable:
+Download the repo tool with `curl` and make it executable:
 ```
 $ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 $ chmod a+x ~/bin/repo
@@ -39,7 +39,7 @@ $ chmod a+x ~/bin/repo
 #### Using Repo
 
 To clone the source with Repo, make a directory for cloning the source. Please note
-that this *must be on a case-sensitive filesystem*.
+that this *must be on a [case-sensitive filesystem](fstab.md)*.
 ```
 $ mkdir blink
 $ cd blink
