@@ -3,6 +3,7 @@ description: blinkOS is a privacy-based operating system built on the Android Op
 show_downloads: true
 google_analytics: false
 theme: jekyll-theme-cayman
-markdown: redcarpet
+# Redcarpet for cloning.md
+# markdown: redcarpet
 source: /home/webpage/blinkOSweb/docs
 destination: /var/www/html
