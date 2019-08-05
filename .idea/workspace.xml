@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a64ce8a7-583b-4efa-93e5-528a5f15fece" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/cam_o.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/cam_o.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_layouts/landing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,7 +117,7 @@
       <workItem from="1564672093198" duration="10000" />
       <workItem from="1564686405939" duration="661000" />
       <workItem from="1564808509868" duration="4278000" />
-      <workItem from="1564973680810" duration="559000" />
+      <workItem from="1564973680810" duration="1860000" />
     </task>
     <task id="LOCAL-00011" summary="add private repo logic gate and set google analytics to false">
       <created>1562692234985</created>

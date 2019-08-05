@@ -27,3 +27,11 @@ will be kept hidden
 * [popcornVPN](popcornVPN.md)
 * [Tor integration](torify.md)
 * [Ease of Installation](flashingBlink.md)
+
+
+
+### Releases
+
+##### We'd like to mark 2019.08.04 (1564976573) as the date of the first official release of blinkOS
+
+* 0.8.3 Proxima (First Official Release)
