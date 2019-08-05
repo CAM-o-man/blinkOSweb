@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a64ce8a7-583b-4efa-93e5-528a5f15fece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_layouts/default.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,14 +117,8 @@
       <workItem from="1564672093198" duration="10000" />
       <workItem from="1564686405939" duration="661000" />
       <workItem from="1564808509868" duration="4278000" />
-      <workItem from="1564973680810" duration="1860000" />
-    </task>
-    <task id="LOCAL-00011" summary="add private repo logic gate and set google analytics to false">
-      <created>1562692234985</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1562692234985</updated>
+      <workItem from="1564973680810" duration="2172000" />
+      <workItem from="1565013576216" duration="700000" />
     </task>
     <task id="LOCAL-00012" summary="fixed hanging close-brace">
       <created>1562692588980</created>
@@ -462,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563476486433</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Officially marking the first official release">
+      <created>1564977141020</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1564977141020</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +483,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="configuring travis" />
     <MESSAGE value="added construction alert" />
     <MESSAGE value="changes to hackSugar.md" />
     <MESSAGE value="added a new layout, and files for our products and&#10;popcornVPN" />
@@ -507,6 +507,7 @@
     <MESSAGE value="Linked to contact us" />
     <MESSAGE value="bugfixes" />
     <MESSAGE value="&#10;bugs bugs bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;bugs bugs bugs" />
+    <MESSAGE value="Officially marking the first official release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Officially marking the first official release" />
   </component>
 </project>
