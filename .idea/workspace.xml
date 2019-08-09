@@ -4,6 +4,8 @@
     <list default="true" id="a64ce8a7-583b-4efa-93e5-528a5f15fece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_layouts/landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/script/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/script/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +120,12 @@
       <workItem from="1564686405939" duration="661000" />
       <workItem from="1564808509868" duration="4278000" />
       <workItem from="1564973680810" duration="2172000" />
-      <workItem from="1565013576216" duration="700000" />
+      <workItem from="1565013576216" duration="2565000" />
+      <workItem from="1565037530563" duration="1172000" />
+      <workItem from="1565108996494" duration="159000" />
+      <workItem from="1565187076624" duration="5244000" />
+      <workItem from="1565219921850" duration="1631000" />
+      <workItem from="1565315572586" duration="253000" />
     </task>
     <task id="LOCAL-00012" summary="fixed hanging close-brace">
       <created>1562692588980</created>

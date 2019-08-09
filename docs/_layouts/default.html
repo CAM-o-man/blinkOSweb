@@ -25,11 +25,9 @@
 <header class="page-header" role="banner">
     <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-    <a href="http://github.com/CAM-o-man/blinkOSweb" class="btn">View on GitHub</a>
+    <a href="http://147.253.39.57:8080" class="btn">View on Gerrit</a>
     {% if site.show_downloads %}
-    <a href="downloads/blinkOS.tar.gz" class="btn">Download .tar.gz</a>
-    <a href="downloads/blinkOS.zip" class="btn">Download .zip</a>
-    <a href="downloads/blinkOS-standalone.zip" class="btn">Download standalone OS</a>
+    <a href="downloads.html" class="btn">Downloads</a>
     <!-- <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a> -->
     {% endif %}
     <a href="http://github.com/CAM-o-man/blinkOSweb/issues" class="btn">Report an Issue</a>
@@ -42,6 +40,17 @@
 
     <footer class="site-footer">
         <span class="site-footer-owner">This site is maintained by <a href="mailto:cam-o-man@live.com">Connor McDermid</a>.</span>
+        <script type="text/javascript">
+            window._idl = {};
+            _idl.variant = "modal";
+            (function() {
+                var idl = document.createElement('script');
+                idl.async = true;
+                idl.src = 'https://members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'modal');
+                document.getElementsByTagName('body')[0].appendChild(idl);
+            })();
+        </script>
+        <a href="https://internetdefenseleague.org"><img src="https://internetdefenseleague.org/images/badges/final/shield_badge.png" alt="Member of The Internet Defense League"/></a>
     </footer>
 </main>
 </body>
