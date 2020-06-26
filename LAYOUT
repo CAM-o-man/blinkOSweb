@@ -1,0 +1,38 @@
+Home
+|
+|-> About
+|	Personal contact info & Portraits
+|
+|-> Weasel
+|	Synopsis & value proposition
+|	|
+|	|-> Get Weasel
+|	|	Google play link
+|	|
+|	|-> View source
+|		GitHub link
+|
+|-> blinkOS
+|	Synopsis & value proposition
+|	|
+|	|-> Supported devices
+|	|	List of devices supported, as well as their current supported version & photo
+|	|
+|	|-> Get blinkOS
+|	|	Magnet links & direct downloads for different blinkOS images
+|	|
+|	|-> View source
+|	|	|
+|	|	|-> Link to gerrit & checkout instructions
+|	|	|
+|	|	|-> Build instructions
+|	|	|
+|	|	|-> Online source documentation, where neccessary
+|	|
+|	|-> Story
+|	|	Story of blinkOS's conception, development, and future goals
+|	|
+|	|-> Credits
+|		Credits to Andre & everyone else who contributed feedback, advice, and/or labour
+|
+|-> GitHub page
