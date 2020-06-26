@@ -1,9 +1,0 @@
-title: hackSugar
-description: blinkOS is a privacy-based operating system built on the Android Open Source Project
-show_downloads: true
-google_analytics: false
-theme: jekyll-theme-cayman
-# Redcarpet for cloning.md
-# markdown: redcarpet
-source: /home/webpage/blinkOSweb/docs
-destination: /var/www/html

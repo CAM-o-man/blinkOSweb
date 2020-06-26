@@ -1,8 +1,0 @@
-title: blinkOS Landing
-description: blinkOS is a privacy-based operating system built on the Android Open Source Project
-show_downloads: true
-google_analytics: false
-theme: jekyll-theme-cayman
-markdown: redcarpet
-source: /home/webpage/blinkOSweb/docs
-destination: /var/www/html
